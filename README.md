@@ -33,7 +33,7 @@
 # How to Install:
 
 ```
-$ git clone https://github.com/MrEmpy/nullog.git
+$ git clone https://github.com/Brosck/nullog.git
 
 $ cd nullog 
 
